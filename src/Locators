@@ -1,0 +1,8 @@
+//RegionalityPopup
+RegionalityPopup.AcceptCity - //span[@class='button user-confirm-location-button']
+RegionalityPopup.ClosePopup - //div[@id='subscribe-thnks-popup']//i[@class='icon icon-close']
+
+//Header
+Header.RegionalityPopup.CityTitle - //p[@class='city-title']
+Header.RegionalityPopup.CityTitle - //p[@class='city-title'][contains(text(), Львів)]
+Header.RegionalityPopup.CityTitle - //p[@class='city-title'][contains(text(), Київ)]
